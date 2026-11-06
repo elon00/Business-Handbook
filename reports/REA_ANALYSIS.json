@@ -1,0 +1,29 @@
+{
+  "engine": "REA_Reverse_Engineer_Anything",
+  "status": "STRUCTURE_RECONSTRUCTED",
+  "analyzed_files": 7,
+  "manifest": {
+    "Amazon Link": {
+      "bytes": 76
+    },
+    "My Business Handbook frontpage.jpg": {
+      "bytes": 117152
+    },
+    "README.md": {
+      "bytes": 564
+    },
+    "scripts\\rea_inspector.py": {
+      "bytes": 1485
+    },
+    "scripts\\rsi_engine.py": {
+      "bytes": 2039
+    },
+    "tests\\reality_check_harness.py": {
+      "bytes": 1250
+    },
+    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
+      "bytes": 531
+    }
+  },
+  "timestamp": 1793990281
+}
