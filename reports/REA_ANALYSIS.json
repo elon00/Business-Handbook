@@ -1,35 +1,5 @@
 {
-  "engine": "REA_Reverse_Engineer_Anything",
-  "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 9,
-  "manifest": {
-    "Amazon Link": {
-      "bytes": 76
-    },
-    "My Business Handbook frontpage.jpg": {
-      "bytes": 117152
-    },
-    "README.md": {
-      "bytes": 564
-    },
-    "reports\\RAVEN_RSI_DIAGNOSTIC.json": {
-      "bytes": 388
-    },
-    "reports\\REA_ANALYSIS.json": {
-      "bytes": 616
-    },
-    "scripts\\rea_inspector.py": {
-      "bytes": 1485
-    },
-    "scripts\\rsi_engine.py": {
-      "bytes": 2039
-    },
-    "tests\\reality_check_harness.py": {
-      "bytes": 1250
-    },
-    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
-      "bytes": 531
-    }
-  },
-  "timestamp": 1794220862
+  "engine": "REA_Inspector",
+  "timestamp": 1794239143,
+  "total_files": 9
 }
